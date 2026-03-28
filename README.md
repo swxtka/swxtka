@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @swxtka
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 to reach me please contact on instagram @swxstikxx
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-swxtka/swxtka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @swxtka
+💻 I’m passionate about coding, problem-solving, and building impactful projects
+🌱 Currently learning Python and strengthening my programming fundamentals
+🧠 Exploring logic building, DSA basics, and real-world applications
+🤝 Open to collaborating on beginner-friendly projects and creative ideas
+📫 Reach me on Instagram: @kia01ly
+😄 Pronouns: She/Her
+⚡ Fun fact: I’m building consistency in coding to create a strong long-term edge
