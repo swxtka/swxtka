@@ -10,8 +10,7 @@
   ✨ Helping you stay productive without burnout
 
 - 🧩 **Notion Template** — designed to help individuals stay consistent & organized  
-  🔍 [View template](https://www.notion.so/kia01ly/The-Calm-Hustler-Hub-
-23198d438db680688336eb96660b23b0?source=copy_link)  
+  🔍 [View template](https://www.notion.so/kia01ly/The-Calm-Hustler-Hub-)  
   ✨ Built for clarity, focus & daily consistency
 
 
